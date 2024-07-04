@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: '旖墨含章',
-  domain: 'ymhz.it',
+  domain: 'ymhz.top',
   author: 'Big Big Dan',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Big Big Dan Blog',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: ' ',
+  github: 'zdalone',
+  linkedin: ' ',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
